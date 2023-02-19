@@ -1,5 +1,5 @@
 # Sampling
-Comparing Different Types of Samplings and Models
+Comparing Different Types of Samplings and Models on credit card data for fraud detection
 
 Models Used: Naive Bayes, Logistic Regression, Knn, SVM, Decision Tree
 
